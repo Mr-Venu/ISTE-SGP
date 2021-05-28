@@ -1,3 +1,4 @@
+#Given a string, the task is to write a Python program to extract till all characters from other strings are found
 a='An apple a day keeps doctor away'
 b='water'
 c=0
