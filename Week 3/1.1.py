@@ -1,3 +1,4 @@
+#A program to combine two dictionaries. In case, there are common keys in both dictionaries, add the values
 a={'A':'apple' , 'B':'Ball' , 'C':'cat' , 'D':'Dog'}
 b={'D':'Door' ,  'E':'Eagle' , 'F':'Fish' , 'G':'Gun'}
 c={}
