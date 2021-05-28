@@ -1,3 +1,4 @@
+#Fibonacci series upto the given number
 n=int(input('Enter a number '))
 i=0
 j=1
