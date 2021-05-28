@@ -1,3 +1,4 @@
+#a python program to compute the element-wise sum of the given tuples
 a=(1,2,3)
 b=(5,6,7)
 c=[]
